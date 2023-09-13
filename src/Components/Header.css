@@ -1,0 +1,13 @@
+.main-header-flex{
+    background-color: rgb(107, 2, 107);
+    color: white;
+    font-family: cursive;
+    font-size: 20px;
+    padding: 10px 50px 0px ;
+}
+.header-list-container{
+    list-style: none;
+}
+.header-list-container li{
+    padding: 8px;
+}
